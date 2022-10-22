@@ -1,0 +1,109 @@
+
+.content {
+    height: 100%;
+    width: 96%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.arrow-drawer{
+    color: #FFFFFF;
+    float: right;
+}
+
+.content-top {
+    width: 100%;
+    height: calc(100% - 40%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content-top-head-logo {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-bottom {
+    padding: 40px;
+    color: #FFFFFF;
+}
+
+.content-bottom-icon {
+    color: #FFFFFF;
+}
+
+.content-bottom-text {
+    width: 151px;
+    height: 27px;
+    font-family: 'Milliard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.nameApp{
+    width: 166px;
+    height: 41px;
+    font-family: 'Milliard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 41px;
+    color: #FFFFFF;
+
+}
+.btn-informe{
+    box-sizing: border-box;
+    padding: 12px 24px;
+    gap: 10px;
+    width: 219px;
+    height: 51px;
+    background: #FFFFFF !important;
+    border: 1px solid #283154;
+    border-radius: 8px;
+}
+
+.btn-informe-text {
+    width: 171px;
+    height: 27px;
+    font-family: 'Milliard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: #283154;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    text-transform: capitalize;
+}
+
+.list {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.list-link {
+    width: 100%;
+    padding: 2px 100px 2px 71px;
+}
+
+.list-link-text {
+    margin-left: 4px;
+}
+.logout{
+    flex: end;
+}

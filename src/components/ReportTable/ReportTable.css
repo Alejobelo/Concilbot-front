@@ -1,0 +1,30 @@
+.table{
+    font-family: 'Milliard';
+    text-align: center;
+    width: 92%;
+    margin: 58px;
+    border-radius: 8px 8px 8px 8px;
+    overflow: hidden;
+}
+
+.t-head-tr{
+    padding: 24px;
+    background-color:#283154 ;
+}
+.t-head-th{
+    color: #FFFFFF;
+}
+.t-head-th, .t-body-td{
+    font-size: 24px;
+    text-align: center;
+    padding: 24px;
+}
+.t-head-th:first-child{
+    text-align: left;
+}
+.t-body-tr{
+    background: #FFFFFF;
+}
+.t-body-td:first-child{
+    text-align: left;
+}
