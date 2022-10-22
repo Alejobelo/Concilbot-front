@@ -125,7 +125,10 @@ export default function DrawerCustom() {
             <div className='content-top'>
                 <div className='content-top-head'>
                     <IconButton className='arrow-drawer' onClick={handleDrawerClose}>
-                        {theme.direction === 'ltr' ? <ChevronLeftIcon /> : <ChevronRightIcon />}
+                        {theme.direction === 'ltr' 
+                          ? <ChevronLeftIcon style={{ color: '#fff' }} /> 
+                          : <ChevronRightIcon style={{ color: '#fff' }} />
+                        }
                     </IconButton>
                     <div className='content-top-head-logo'>
                         <img src={Img} />
