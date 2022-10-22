@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/concilbot-front/static/css/main.15318472.css",
-    "main.js": "/concilbot-front/static/js/main.594d7748.js",
-    "static/js/787.c0bbde4b.chunk.js": "/concilbot-front/static/js/787.c0bbde4b.chunk.js",
-    "index.html": "/concilbot-front/index.html",
-    "main.15318472.css.map": "/concilbot-front/static/css/main.15318472.css.map",
-    "main.594d7748.js.map": "/concilbot-front/static/js/main.594d7748.js.map",
-    "787.c0bbde4b.chunk.js.map": "/concilbot-front/static/js/787.c0bbde4b.chunk.js.map"
+    "main.css": "/static/css/main.15318472.css",
+    "main.js": "/static/js/main.ce4681c2.js",
+    "static/js/787.c0bbde4b.chunk.js": "/static/js/787.c0bbde4b.chunk.js",
+    "index.html": "/index.html",
+    "main.15318472.css.map": "/static/css/main.15318472.css.map",
+    "main.ce4681c2.js.map": "/static/js/main.ce4681c2.js.map",
+    "787.c0bbde4b.chunk.js.map": "/static/js/787.c0bbde4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15318472.css",
-    "static/js/main.594d7748.js"
+    "static/js/main.ce4681c2.js"
   ]
 }
